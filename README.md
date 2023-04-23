@@ -5,4 +5,4 @@ To understand full scope of the interface implimented, read "Project Statement.p
 
 Uploaded code files in directory B-tree
 
-Uploaded the zip in the required format that was needed for it it to be tested.
+Uploaded the zip in the required format that was needed for it it to be tested. It contains the project implimentation, a .jar file and a text file.
